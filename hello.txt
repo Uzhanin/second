@@ -2,3 +2,4 @@ Hello, Git!
 Second line has been added
 
 Hello, Git!
+Hello git rebase
